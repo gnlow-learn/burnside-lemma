@@ -3,3 +3,6 @@
 
 ## 2023-06-15
 [Burnside's lemma: counting up to symmetries (YT: Miroslav Olšák)](https://www.youtube.com/watch?v=D0d9bYZ_qDY)
+
+## 2025-11-15
+[Exploration & Epiphany (YT: Paul Dancstep)](https://youtu.be/_BrFKp-U8GI)
